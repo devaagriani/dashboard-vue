@@ -53,6 +53,7 @@ onMounted(() => {
     <!-- Header Dark Teal -->
     <header class="app-header">
       <h1>Dashboard Vue — Pertemuan 5</h1>
+      <p class="author-info">Deva Agriani — 25120300026</p>
     </header>
 
     <main class="main-content">
